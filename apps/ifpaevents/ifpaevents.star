@@ -12,7 +12,7 @@ load("schema.star", "schema")
 load("secret.star", "secret")
 
 API_KEY = """
-AV6+xWcExdMNUN6PYH+JotIsNKvKdvxNA5Efhe5DxwEfoTUjlS3lCzN/EwbIcxY2FmhuIBuf9d0oM8OFv54WMnQFWd50vQ6wT3kXCuGYwxCcicp2jtRvz7k3WeSnDlsVC5cOLDCTYEg6nU+/acQQvUwfsXC3Qd77EKrDAFi67BclFQTyyBA=
+AV6+xWcEyMud2UfQ3kXiOlUQNf3oZICuZa/0kTkpdtTctaP6w+UXAWgJ+1rgUyW2aJEb58k1d1UGwVhjKzNankbBmZ6nyf2dr4Soj2SR0InmG4rGf3oc9moabjabU447bdYcqIHU/9jPdm162zmR+peQ9iRkih+szy81zRjCYjcXt3X1FOs=
 """
 
 CACHE_TIME_IN_SECONDS = 3600
